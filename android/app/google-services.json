@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041351680175",
+    "project_id": "el-dorado-f8557",
+    "storage_bucket": "el-dorado-f8557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041351680175:android:f637c81fd5a9cd4911745a",
+        "android_client_info": {
+          "package_name": "com.example.sprint2_mobil_udea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041351680175-nnr0ogcdidausjgudij13vkvo2ci9m1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFt00GsdTAX9y0V0VOsdWrkOAyE5F1MV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041351680175-nnr0ogcdidausjgudij13vkvo2ci9m1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
